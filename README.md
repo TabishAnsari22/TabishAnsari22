@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Hashir Khan Universe!
+  Welcome to Tabish Ansari Universe!
 </h3>
 
 <p align="center">
